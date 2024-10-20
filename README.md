@@ -1,4 +1,4 @@
-# hemycicle-builder_parliament
+# hemicycle-builder-parliament
 Build a parliament based on the number of members, you can fully personalize the behaviour of such builder as it is easily understandable.
 
 **How does it work?**
